@@ -13,6 +13,10 @@ Este repositório contém a tradução completa do mod **Immortal Life** para o 
 
 O Immortal Life é um mod que adiciona novas mecânicas de sobrevivência e longevidade ao jogo, permitindo que os jogadores explorem novas dimensões de gameplay.
 
+## 🔗 Página do Jogo na Steam
+
+- **Immortal Life na Steam:** https://store.steampowered.com/app/1201230/Immortal_Life/
+
 ## 🇧🇷 Tradução
 
 Este projeto fornece uma tradução completa e cuidadosamente revisada do mod para falantes de português brasileiro, garantindo que toda a experiência do jogo seja acessível em português.
@@ -51,4 +55,3 @@ Para dúvidas, sugestões ou problemas com a tradução, abra uma issue neste re
 ---
 
 **Última atualização:** Agosto de 2026
-
