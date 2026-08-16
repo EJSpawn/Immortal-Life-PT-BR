@@ -1,6 +1,52 @@
+<div align="center">
+
 # Immortal Life - Tradução Português Brasileiro
 
-Este repositório contém a tradução completa do mod **Immortal Life** para o português brasileiro.
+![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+![Idioma](https://img.shields.io/badge/Idioma-PT--BR-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-v49-orange?style=for-the-badge)
+![Plataforma](https://img.shields.io/badge/Jogo-Immortal%20Life-7b68ee?style=for-the-badge)
+
+</div>
+
+Este repositório contém a tradução completa do **Immortal Life** para o português brasileiro.
+
+---
+
+## ✨ Veja o Mod em Ação
+
+<div align="center">
+
+### 🎬 Immortal Life em Português Brasileiro
+
+[![Immortal Life PT-BR Thumbnail](thumbnail/thumbnail.png)](https://store.steampowered.com/app/1201230/Immortal_Life/)
+
+**🌾 Cultive, explore e viva a fantasia de Immortal Life com tradução completa em PT-BR.**  
+**🔥 Mais imersão, mais acessibilidade, a mesma aventura que você ama — agora no seu idioma.**
+
+[➡️ Ver página oficial na Steam](https://store.steampowered.com/app/1201230/Immortal_Life/)  
+[➡️ Baixar no Nexus Mods](https://www.nexusmods.com/immortallife/mods/13)
+
+</div>
+
+---
+
+## 🖼️ Screenshots da Tradução
+
+<div align="center">
+
+<img src="screenshots/1.png" alt="Screenshot 1 - Immortal Life PT-BR" width="48%" />
+<img src="screenshots/2.png" alt="Screenshot 2 - Immortal Life PT-BR" width="48%" />
+<img src="screenshots/3.png" alt="Screenshot 3 - Immortal Life PT-BR" width="48%" />
+<img src="screenshots/4.png" alt="Screenshot 4 - Immortal Life PT-BR" width="48%" />
+<img src="screenshots/5.png" alt="Screenshot 5 - Immortal Life PT-BR" width="48%" />
+<img src="screenshots/6.png" alt="Screenshot 6 - Immortal Life PT-BR" width="48%" />
+
+</div>
+
+> 💡 *Imagens da tradução em funcionamento dentro do jogo.*
+
+---
 
 ## 📋 Conteúdo do Projeto
 
