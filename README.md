@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-PT--BR-blue?style=for-the-badge)
-![Versão](https://img.shields.io/badge/Versão-v49-orange?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Versão-v115-orange?style=for-the-badge)
 ![Plataforma](https://img.shields.io/badge/Jogo-Immortal%20Life-7b68ee?style=for-the-badge)
 
 </div>
